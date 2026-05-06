@@ -1,7 +1,0 @@
-build/
-dist/
-*.class
-*.log
-nbproject/private/
-.idea/
-.vscode/
